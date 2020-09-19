@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BVM", "BVM\BVM.csproj", "{64C2A27B-0784-474C-9DE3-111B736F2F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C2A27B-0784-474C-9DE3-111B736F2F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C2A27B-0784-474C-9DE3-111B736F2F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C2A27B-0784-474C-9DE3-111B736F2F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C2A27B-0784-474C-9DE3-111B736F2F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91D8F7B-76FC-4D75-AAA6-041E025F73A2}
+	EndGlobalSection
+EndGlobal
