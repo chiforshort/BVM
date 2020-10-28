@@ -59,9 +59,10 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-  font-family: "Roboto", sans-serif;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    font-family: "Roboto", sans-serif;
+    background-image: url('../images/brea-soul-nappy-.jpg');
 }
 .footer {
   position: absolute;
